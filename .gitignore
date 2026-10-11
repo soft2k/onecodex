@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.egg-info/
+state/
+connections.json
+codex-mcp.toml
+.env
+.env.*
+*.cf
+*.cfe
+*.dt
+*.1cd
+*.log

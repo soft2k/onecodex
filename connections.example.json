@@ -1,0 +1,19 @@
+{
+  "platform": "C:\\Program Files\\1cv8\\8.3.27.1859\\bin\\1cv8.exe",
+  "state_dir": "state",
+  "connections": {
+    "file-test": {
+      "kind": "file",
+      "location": "C:\\1C\\TestBase",
+      "user": "Admin",
+      "allow_apply": false
+    },
+    "server-test": {
+      "kind": "server",
+      "location": "server1c\\test_base",
+      "user": "Developer",
+      "password_env": "ONECODEX_TEST_PASSWORD",
+      "allow_apply": false
+    }
+  }
+}
